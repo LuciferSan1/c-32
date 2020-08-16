@@ -1,0 +1,17 @@
+html{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(231, 200, 20);
+    font-family: sans-serif;
+}
+
+canvas{
+    margin-top: 100px;
+    margin-left: 300px;
+    border: 5px solid black;
+}
+
+.tittle{
+    margin-left: 300px;
+    
+}
